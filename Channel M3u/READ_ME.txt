@@ -1,6 +1,9 @@
+#READ THIS IF YOU WANT TO USE DROPBOX 
+
 HOW TO :
 
 ********************************************************************************************************************************************************************************************
+For now the logos are not yet supported,so clone the repo or send me the logos i will add in the channel logo
 1)TV_LOGOS EXAMPLE:
 
 CHANGE THE URL BELOW
