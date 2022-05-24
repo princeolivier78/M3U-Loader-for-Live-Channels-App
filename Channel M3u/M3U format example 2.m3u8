@@ -1,13 +1,11 @@
 #EXTM3U url-tvg="https://dl.dropboxusercontent.com/s/fyboiekemv5b2bi/M3U_loader.xml?dl=0"
-#EXTINF:-1 tvg-id="channel0" tvg-name="Bbc One" tvg-logo="demo0.png" group-title="english",##Dummy Leave me here##
+#EXTINF:001 tvg-id="TRTWorld.tr" tvg-logo="demo1.png", [COLOR orangered]DEMO 1[/COLOR]
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="Bbc One" tvg-logo="3jdqdxxcfy27rqh/demo1.png" group-title="english",DEMO 1
+#EXTINF:002 tvg-id="TRTWorld.tr" tvg-logo="demo2.png", [COLOR orangered]DEMO 2[/COLOR]
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="Bbc One" tvg-logo="phpmoib5jmk3noe/demo2.png" group-title="english",DEMO 2
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="Bbc One" tvg-logo="6389yjjxyajedw3/demo3.png" group-title="english",DEMO 3
+#EXTINF:003 tvg-id="TRTWorld.tr" tvg-logo="demo2.png", [COLOR orangered]DEMO 3[/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="Bbc One" tvg-logo="6389yjjxyajedw3/demo3.png" group-title="english",DEMO 4
+#EXTINF:004 tvg-id="TRTWorld.tr" tvg-logo="demo4.png", [COLOR orangered]DEMO 4[/COLOR]
 https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
 
 
