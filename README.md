@@ -1,6 +1,5 @@
 # M3U Loader for Live Channels App
  Simple M3U playlist loader Integrated inside the Live Channels App for Google TV and Android TV
-HOW DOES THE APP WORK 
 
 After you download the APP you can open it from the playstore or by clicking on the icon to get started if that fails to load just relaunch it again
 Then in the settings enter your M3U details of M3U url and the XMLTV url Please look at the examples in the repo of the current working formats .
