@@ -10,7 +10,7 @@ Link to the playstore for the app if you have a Google tv or Android tv device:
 
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/Android%20TV%20Home_20220524_115322.png)
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/M3U%20LOADER_20220524_115455.png)
-# TO TRY PLEASE ENTER THE EXAMPLE M3U DETAILS FOUND IN THIS REPO INSIDE THE M3U AND XMLTV LOGO NOT SUPPORTED YET .
+# To try use the M3U Playlist and xmltv urls found in this repo , for now the logos are not yet supported so send them to me will upload them.
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/M3U%20LOADER_20220524_115434.png)
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/Live%20Channels_20220524_115416.png)
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/Live%20Channels_20220524_115354.png)
