@@ -7,6 +7,7 @@ Once the M3U is ready click on continue then in the Live Channels setup click on
 If all set properly the tv channels and tv guide should all load just fine please look at the images for reference .
 
 Link to the playstore for the app if you have a Google tv or Android tv device:
+https://play.google.com/store/apps/details?id=googletv.livechannels.m3u
 
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/Android%20TV%20Home_20220524_115322.png)
 ![Screenshots](https://github.com/princeolivier78/M3U-Loader-for-Live-Channels-App/blob/main/Screenshots/M3U%20LOADER_20220525_110859.png)
