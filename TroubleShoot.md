@@ -36,7 +36,7 @@ send me the logos I will upload them for now until I figure out how to implement
 
 M3u plalist :
 
-use google search for free m3u8 streams there plenty of them out there then use my format and just add the streams :)
+search on google or github.com for free m3u8 streams and xmltv there plenty of them out there then use my format and just add the streams :)
 
 
 
